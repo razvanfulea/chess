@@ -8,7 +8,7 @@ Empty space: `*`
 | white | p    | n      | b      | r    | q     | k    |
 | black | P    | N      | B      | R    | Q     | K    |
 
-###Sample initial board
+### Sample initial board
 
     RNBQKBNR
     PPPPPPPP
